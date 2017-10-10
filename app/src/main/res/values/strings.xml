@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">账本</string>
+    <string name="save_warning">请输入完整内容</string>
+    <string name="cost_type">消费类型</string>
+    <string name="cost_date"><u>消费时间</u></string>
+    <string name="cost_money"><u>消费金额（元)</u></string>
+    <string name="cost_money_et">消费金额（元)</string>
+    <string name="add">添加账单</string>
+    <string name="add_success">账单添加成功</string>
+    <string name="update_success">账单更改成功</string>
+    <string name="update_nothing">账单未变更</string>
+    <string name="save">保存账单</string>
+    <string name="delete">删除</string>
+    <string name="delete_inform">确定删除</string>
+    <string name="delete_all">确定删除所有账单</string>
+    <string name="yes">确定</string>
+    <string name="no">取消</string>
+    <string name="help">使用说明</string>
+    <string name="clean">清空所有账单</string>
+    <string name="query_sel">按月显示</string>
+    <string name="query_all">全部显示</string>
+    <string name="total">消费图形</string>
+    <string name="back">返回</string>
+    <string name="title">标题</string>
+    <string name="query_month">月</string>
+    <string name="query_year">年</string>
+    <string name="date">时间</string>
+    <string name="money">元</string>
+    <string name="total_cost">总共消费：</string>
+
+    <string name="monday">星期一</string>
+    <string name="tuesday">星期二</string>
+    <string name="wednesday">星期三</string>
+    <string name="thursday">星期四</string>
+    <string name="friday">星期五</string>
+    <string name="saturday">星期六</string>
+    <string name="sunday">星期日</string>
+
+    <string name="help_eye">：显示所有账单</string>
+    <string name="help_search">：按选择的月份显示账单</string>
+    <string name="help_year">&#160;&#160;&#160;&#160;年&#160;&#160;&#160;：按年分统计</string>
+    <string name="help_month">&#160;&#160;&#160;&#160;月&#160;&#160;&#160;：按月分统计</string>
+    <string name="help_time">&#160;&#160;消费时间：会按时间的升序/降序显示</string>
+    <string name="help_money">&#160;&#160;消费金额：会按金额的升序/降序显示</string>
+    <string name="help_charts">&#160;&#160;消费图形：显示消费的波动情况，坐标点可点击</string>
+    <string name="help_warn">&#160;&#160;注意：消费图形必须有两组以上账单才会显示</string>
+</resources>

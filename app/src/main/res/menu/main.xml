@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/query_all"
+        android:icon="@mipmap/ic_menu_view"
+        android:title="@string/query_all"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/query_way"
+        android:icon="@mipmap/ic_menu_search"
+        android:title="@string/query_sel"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/total"
+        android:title="@string/total"/>
+
+    <item
+        android:id="@+id/delete_all"
+        android:title="@string/clean"/>
+
+    <item
+        android:id="@+id/help"
+        android:title="@string/help" />
+</menu>
